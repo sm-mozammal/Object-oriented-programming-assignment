@@ -1,3 +1,3 @@
-# Object-oriented-programming-assignment
+# Object-oriented-programming
 #Java
 #Gui
